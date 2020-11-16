@@ -28,5 +28,3 @@ try:
 except KeyboardInterrupt:
   p.stop()
   GPIO.cleanup()
-
-test
